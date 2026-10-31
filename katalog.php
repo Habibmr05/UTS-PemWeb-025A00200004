@@ -45,7 +45,7 @@ $rata_harga = hitungRataRataHarga($data_merch);
     </main>
 
     <footer>
-        <p>&copy; 2026 Web Merchandise</p>
+        <p>&copy; Special Merchandise</p>
     </footer>
 </body>
 </html>

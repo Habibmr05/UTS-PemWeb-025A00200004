@@ -42,7 +42,7 @@ require_once 'data.php';
     </main>
 
     <footer>
-        <p>&copy; 2026 Web Merchandise - Habib</p>
+     <p>&copy; Special Merchandise</p>
     </footer>
 </body>
 </html>
