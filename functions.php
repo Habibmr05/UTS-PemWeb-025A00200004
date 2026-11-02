@@ -10,6 +10,11 @@ function hitungRataRataHarga(array $data): float {
     $semua_harga = array_column($data, 'harga'); 
     return array_sum($semua_harga) / count($semua_harga);
 }
+function hitungHargaTerendah(array $data): int {
+    if (empty($data)) return 0;
+    $semua_harga = array_column($data, 'harga');
+    return min($semua_harga);
+}
 
 function e(string $string): string {
     return htmlspecialchars($string, ENT_QUOTES, 'UTF-8'); 

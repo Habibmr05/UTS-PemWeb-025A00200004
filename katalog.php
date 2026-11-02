@@ -4,6 +4,7 @@ require_once 'data.php';
 
 $total_merch = hitungTotalMerch($data_merch);
 $rata_harga = hitungRataRataHarga($data_merch);
+$harga_terendah = hitungHargaTerendah($data_merch);
 ?>
 <!DOCTYPE html>
 <html lang="id">
@@ -29,6 +30,7 @@ $rata_harga = hitungRataRataHarga($data_merch);
             <h3>Statistik Merchandise</h3>
             <p>Total Item: <strong><?= $total_merch ?> Produk</strong></p>
             <p>Rata-rata Harga: <strong>Rp <?= number_format($rata_harga, 0, ',', '.') ?></strong></p>
+            <p>Harga Terendah: <strong>Rp <?= number_format($harga_terendah, 0, ',', '.') ?></strong></p>
         </section>
 
         <!-- Menggunakan class merchandise-grid -->
