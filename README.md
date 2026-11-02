@@ -6,7 +6,7 @@
 - **Kelas:** A
 
 ## 2. Deskripsi Singkat
-Proyek ini adalah website katalog *special merchandise* untuk Kopi Kenangan cabang Keprabon. Web ini dibangun menggunakan PHP Native dan CSS murni untuk menampilkan daftar produk, kategori, harga, serta statistik sederhana yang diolah langsung dari struktur data array.
+Proyek ini adalah website katalog *special merchandise* untuk Fns Ipul diluar sana. Web ini dibangun menggunakan PHP Native dan CSS murni untuk menampilkan daftar produk, kategori, harga, serta statistik sederhana yang diolah langsung dari struktur data array.
 
 ## 3. Cara Menjalankan di Localhost
 1. Pastikan aplikasi XAMPP sudah terpasang dan jalankan modul **Apache**.
@@ -26,11 +26,12 @@ Proyek ini adalah website katalog *special merchandise* untuk Kopi Kenangan caba
 
 ## 6. Tangkapan Layar
 **Halaman Beranda:**
-![Beranda](https://github.com/Habibmr05/UTS-PemWeb-025A00200004/blob/main/assets/tampilanlayout1.jpeg)
-
+![Beranda](assets/tampilanlayout1.jpeg)
 **Halaman Katalog:**
-![Katalog](https://github.com/Habibmr05/UTS-PemWeb-025A00200004/blob/main/assets/tampilanlayout2.jpeg)
+![Katalog](assets/tampilanlayout2.jpeg)
 
 ## 7. Sumber Referensi dan Pemakaian AI
+- Pertemuan Mata kuliah Pemrograman Web 1-7
 - **Referensi Aset & Visual:** Logo dan aset gambar produk bersumber dari Kopi Kenangan. Tipografi menggunakan Google Fonts (Poppins & Pacifico).
 - **Catatan Pemakaian AI:** Menggunakan bantuan Google Gemini AI sebagai *thought partner* untuk melakukan refactoring CSS Grid agar konsisten, memisahkan logika PHP Native ke dalam arsitektur modular (`data.php`, `functions.php`), serta memperbaiki tata cara inisialisasi awal ke GitHub.
+- insipirasi desain tu,bler dari club terbaik yang ada di enlish premiere league "LIVERPOOL"
