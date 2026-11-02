@@ -24,8 +24,8 @@ require_once 'data.php';
 
     <main>
         <section class="kurator-section">
-             <h3>Kopi Kenangan - Keprabon</h3>
-             <p>Selamat datang di Kopi Kenangan cabang Keprabon, Surakarta! Tempat nongkrong paling pas buat lu yang pengen nikmatin kopi andalan sambil nugas atau sekadar santai. Selain ngopi, lu juga bisa ngoleksi merchandise resmi kita biar kenangannya makin nempel.<br><br>
+             <h3>Kopi Ngangenin</h3>
+             <p>Selamat datang di Kopi Ngangenin! Tempat nongkrong paling pas buat lu yang pengen nikmatin kopi andalan sambil nugas atau sekadar santai. Selain ngopi, lu juga bisa ngoleksi merchandise resmi kita biar kenangannya makin nempel.<br><br>
             <strong>Jam Operasional:</strong> Buka Setiap Hari 24 jam non stop buat kenyamanan kalian</p>
         </section>
 
