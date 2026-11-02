@@ -24,9 +24,9 @@ require_once 'data.php';
 
     <main>
         <section class="kurator-section">
-             <h3>Kopi Ngangenin</h3>
-             <p>Selamat datang di Kopi Ngangenin! Tempat nongkrong paling pas buat lu yang pengen nikmatin kopi andalan sambil nugas atau sekadar santai. Selain ngopi, lu juga bisa ngoleksi merchandise resmi kita biar kenangannya makin nempel.<br><br>
-            <strong>Jam Operasional:</strong> Buka Setiap Hari 24 jam non stop buat kenyamanan kalian</p>
+             <h3>Merchandise Ipul</h3>
+             <p>Selamat datang di Toko Merchandise Ipul. Buat kamu yang suka nonton bola suka kehausan wajib banget beli di toko ipul ini apalagi khusus kamu fans ipul dapetin diskon.<br><br>
+            <strong>Jam Operasional:</strong> Buka Setiap Hari 24 jam non stop buat kamu fans ipul sejati</p>
         </section>
 
         <!-- Menggunakan class merchandise-grid -->
