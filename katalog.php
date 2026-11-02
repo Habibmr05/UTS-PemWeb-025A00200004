@@ -37,7 +37,6 @@ $rata_harga = hitungRataRataHarga($data_merch);
             <article class="kartu-merchandise">
                 <img src="<?= e($item['gambar']) ?>" alt="<?= e($item['nama']) ?>">
                 <h3><?= e($item['nama']) ?></h3>
-                <p>Kategori: <strong><?= e($item['kategori']) ?></strong></p>
                 <span class="badge badge-red">Rp <?= number_format($item['harga'], 0, ',', '.') ?></span>
             </article>
             <?php endforeach; ?>
