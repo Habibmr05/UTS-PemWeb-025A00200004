@@ -34,4 +34,7 @@ Proyek ini adalah website katalog *special merchandise* untuk Fns Ipul diluar sa
 - Pertemuan Mata kuliah Pemrograman Web 1-7
 - **Referensi Aset & Visual:** Logo dan aset gambar produk bersumber dari Kopi Kenangan. Tipografi menggunakan Google Fonts (Poppins & Pacifico).
 - **Catatan Pemakaian AI:** Menggunakan bantuan Google Gemini AI sebagai *thought partner* untuk melakukan refactoring CSS Grid agar konsisten, memisahkan logika PHP Native ke dalam arsitektur modular (`data.php`, `functions.php`), serta memperbaiki tata cara inisialisasi awal ke GitHub.
-- insipirasi desain tu,bler dari club terbaik yang ada di enlish premiere league "LIVERPOOL"
+- insipirasi desain tumbler dari club terbaik yang ada di enlish premiere league "LIVERPOOL"
+- Referensi assets mengunakan club premiere inggris terbaik "LIVERPOOL"
+- Pertemuan 1-6 Mata kuliah Pemrograman Web
+
